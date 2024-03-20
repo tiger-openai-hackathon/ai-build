@@ -9,6 +9,10 @@ Please clone this repository to your local system or download the zip by clickin
 3. Detailed instructions to follow during the session are available in the [instructions](instructions/ms_ai_build_steps.pdf) folder
 4. Additional references can be found in the [references](references) folder
 
+**Data Description**: The data concerns the role of recycling in resource conservation and environmental impact. Three PDF documents discussing this topic are available in the above data link. They contain text in various formats, such as bullet points, images, and tables.
+
+**Problem statement**: We want to develop an interactive AI-powered chatbot that will educate users on the benefits of Recycling and answer related questions.
+
 Please use the credentials shared on the paper slip at the registration desk for logging into the [Azure AI studio](https://ai.azure.com/)
 
 Please feel free to reach out to the trainers during the session, for any questions or issues related to access or the
